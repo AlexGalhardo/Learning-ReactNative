@@ -1,17 +1,20 @@
 <p align="center">
   <a href="https://facebook.github.io/react-native/">
-    <img src="reactnative.png" alt="" width=200 height=144>
+    <img src="reactnative.png" alt="" width=200 height=174>
   </a>
 
   <p align="center">
-    Learning ReactNative to Build Awesome Native Mobile Applications :smile:
+    Learning ReactNative to make awesome native Mobile Applications :smile:
     <br>
   </p>
 
 ## References
 
  - Recommended Courses
-    - [React Native Do Zero Ao Profissional](http://lp.b7web.com.br/rn-pre-venda/)
+    - [React Native Do Zero Ao Profissional - Bonieky](http://lp.b7web.com.br/rn-pre-venda/)
+ 
+## Expo Deploy Reference
+
  - [Expo](https://expo.io)
     - [Learn Expo.io](https://expo.io/learn)
     - $ sudo npm install -g expo-cli
@@ -22,17 +25,17 @@
     - In app.json
     ```json
     {
-  		"expo": {
-  			"sdkversion": "23.0",
-  			"name": "App_Name_Here",
-  			"icon": "./icon.png",
-  			"version":"1.0.0",
-  			"slug": "exp.host/@alexgalhardo/app_name_here",
-  			"android":{
-  				"package":"com.galhardoo.app_name_here"
-  			}
-  		}
-  	}
+      "expo": {
+        "sdkversion": "23.0",
+        "name": "App_Name_Here",
+        "icon": "./icon.png",
+        "version":"1.0.0",
+        "slug": "exp.host/@alexgalhardo/app_name_here",
+        "android":{
+          "package":"com.galhardoo.app_name_here"
+        }
+      }
+    }
     ```
     - Install exp
        - $ sudo npm install -g exp
@@ -45,10 +48,10 @@
        ```
        - $ exp start
        - $ exp build:android
-       - Choose Option 1 -> Lets Expo Handle This
+          - Choose Option 1 -> Lets Expo Handle This
           - The expo will start to build APK in the cloud!
           - Download APK in Expo Account!
-       - $exp build:status
+       - $ exp build:status
 
 ## Tools
  
