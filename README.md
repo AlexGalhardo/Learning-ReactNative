@@ -4,7 +4,7 @@
   </a>
 
   <p align="center">
-    Learning ReactNative to make awesome native Mobile Applications :smile:
+    Learning ReactNative to Build Awesome Native Mobile Applications :smile:
     <br>
   </p>
 
@@ -13,7 +13,7 @@
  - Recommended Courses
     - [React Native Do Zero Ao Profissional - Bonieky](http://lp.b7web.com.br/rn-pre-venda/)
  
-## Expo Deploy Reference
+## Expo Build APK
 
  - [Expo](https://expo.io)
     - [Learn Expo.io](https://expo.io/learn)
