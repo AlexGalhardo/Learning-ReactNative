@@ -1,17 +1,8 @@
-<p align="center">
-  <a href="https://facebook.github.io/react-native/">
-    <img src="reactnative.png" alt="" width=200 height=174>
-  </a>
-
-  <p align="center">
-    Learning ReactNative to Build Awesome Native Mobile Applications :smile:
-    <br>
-  </p>
-
 ## References
 
  - Recommended Courses
     - [React Native Do Zero Ao Profissional - Bonieky](http://lp.b7web.com.br/rn-pre-venda/)
+    - [RocketSeat](https://rocketseat.com.br/)
  
 ## Expo Build APK
 
